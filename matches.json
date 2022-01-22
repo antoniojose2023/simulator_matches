@@ -1,22 +1,22 @@
 [
 
   {
-      descricao : "Eliminatório da sulaméricanas 2022",
-      local: {
-          nome: "Maracanã",
-          urlImagem: "TODO"
+      "descricao" : "Eliminatório da sulaméricanas 2022",
+      "local": {
+          "nome": "Maracanã",
+          "urlImagem": "TODO"
       },
       
-      timeCasa: {
-          nome: "Brasil",
-          forca: "5",
-          urlImagen: "TODO"
+      "timeCasa": {
+          "nome": "Brasil",
+          "forca": "5",
+          "urlImagen": "TODO"
       }, 
       
-        timeVisitante: {
-          nome: "Peru",
-          forca: "2",
-          urlImagen: "TODO"
+        "timeVisitante": {
+          "nome": "Peru",
+          "forca": "2",
+          "urlImagen": "TODO"
       }
   }
 
