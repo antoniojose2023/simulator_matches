@@ -10,13 +10,13 @@
       "timeCasa": {
           "nome": "Brasil",
           "forca": "5",
-          "urlImagen": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+          "urlImagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
       }, 
       
         "timeVisitante": {
           "nome": "Peru",
           "forca": "2",
-          "urlImagen": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
+          "urlImagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
       }
   },
   
@@ -30,13 +30,13 @@
       "timeCasa": {
           "nome": "Brasil",
           "forca": "5",
-          "urlImagen": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+          "urlImagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
       }, 
       
         "timeVisitante": {
           "nome": "Argentina",
           "forca": "4",
-          "urlImagen": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+          "urlImagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
       }
   }, 
   
@@ -50,13 +50,13 @@
       "timeCasa": {
           "nome": "Brasil",
           "forca": "5",
-          "urlImagen": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+          "urlImagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
       }, 
       
         "timeVisitante": {
           "nome": "Colombia",
           "forca": "3",
-          "urlImagen": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+          "urlImagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
       }
   }
   
